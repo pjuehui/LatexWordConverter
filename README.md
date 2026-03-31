@@ -1,4 +1,4 @@
-# Juehui's LaTeX-Word Converter
+# Juehui's LaTeX-Word Converter  下载链接在下面附的网盘！！！！
 
 A bilingual LaTeX-to-Word desktop editor with project-based workflow, live preview, and one-click `.docx` export.
 
