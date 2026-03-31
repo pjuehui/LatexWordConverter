@@ -13,9 +13,10 @@ English:
 3. Click “New Project” or “Open Project”.
 4. Click “Export Word” to generate .docx.
 
-备注 / Notes:
-- 已内置运行环境与 Pandoc,  do not need to install Python/Pandoc.
-- If Windows SmartScreen warns, click “More info” -> “Run anyway”.
+## 软件界面 / UI Preview
+
+![Juehui's LaTeX-Word Converter](images/LatexWordConverter.png)
+
 
 - 通过网盘分享的文件：JuehuiLatexWordConverter-portable.zip
 链接: https://pan.baidu.com/s/1F_ASxx6McHQeQqcXhuAWyg 提取码: j8gu
