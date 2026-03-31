@@ -1,3 +1,8 @@
+## 软件界面 / UI Preview
+
+![UI Preview](./LatexWordConverter.png)
+
+
 # Juehui's LaTeX-Word Converter
 
 A bilingual LaTeX-to-Word desktop editor with project-based workflow, live preview, and one-click `.docx` export.
@@ -9,9 +14,7 @@ A bilingual LaTeX-to-Word desktop editor with project-based workflow, live previ
 - 公式、图片、参考文献
 - 一键导出 `.docx`
 
-## 软件界面 / UI Preview
 
-![UI Preview](./LatexWordConverter.png)
 
 ## 快速使用 / Quick Start
 
