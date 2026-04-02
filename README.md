@@ -1,4 +1,4 @@
-# Juehui's LaTeX-Word Converter  下载链接在下面附的网盘！！！！
+# Juehui's LaTeX-Word Converter  下载链接在下面附的网盘！！！！ 压缩包是软件解压以后能直接用 文件夹是工程源码 大家自己想要的功能和界面可自行DIY
 
 A bilingual LaTeX-to-Word desktop editor with project-based workflow, live preview, and one-click `.docx` export.
 
@@ -38,6 +38,6 @@ A bilingual LaTeX-to-Word desktop editor with project-based workflow, live previ
 - If Windows SmartScreen warns, click **More info** -> **Run anyway**.
 
 ## 下载 / Download
-- 网盘文件：`JuehuiLatexWordConverter-portable.zip`  
-- 链接：<https://pan.baidu.com/s/1F_ASxx6McHQeQqcXhuAWyg>  
-- 提取码：`j8gu`
+通过网盘分享的文件：latex-word
+链接: https://pan.baidu.com/s/16zVMdRmOWZWEaVYtl-ntKQ 提取码: rzrw 
+--来自百度网盘超级会员v1的分享
